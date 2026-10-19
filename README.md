@@ -3,6 +3,10 @@
 A native PC cleanup and system optimizer for Windows (x64 / ARM64), built with .NET 10 and Avalonia UI.
 The core engine is platform-independent, so Linux and macOS support can be added later.
 
+## Web Page
+
+https://zeloratune.ozgunsero.com.tr
+
 ## Features
 
 * **Dashboard:** health score with one-click fixes, live CPU/memory/disk and network charts, drive health
